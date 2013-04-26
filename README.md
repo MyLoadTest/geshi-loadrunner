@@ -15,6 +15,6 @@ GeSHi is the Generic Syntax Highlighter, a PHP library that converts plain text 
 Syntax Highlighting on WordPress
 --------------------------------
 
-If you run a WordPress-based website or blog, you can easily highlight LoadRunner code with the WP-Syntax plugin. Just copy "c_loadrunner.php" to the wp-content/plugins/wp-syntax/geshi/geshi directory, and wrap code blocks with <pre lang="c_loadrunner" line="1"> and </pre>. I have used it [here](http://www.myloadtest.com/loadrunner-syntax-highlighter/).
+If you run a WordPress-based website or blog, you can easily highlight LoadRunner code with the WP-Syntax plugin. Just copy "c_loadrunner.php" to the wp-content/plugins/wp-syntax/geshi/geshi directory, and wrap code blocks with &lt;pre lang="c_loadrunner" line="1"&gt; and &lt;/pre&gt;. I have used it [here](http://www.myloadtest.com/loadrunner-syntax-highlighter/).
 
 * [WP-Syntax](http://wordpress.org/extend/plugins/wp-syntax/)
